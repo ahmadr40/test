@@ -25,4 +25,5 @@
     "translatePlugin.langModal.mic.help": "Pick the language you will speak.",
     "common.cancel": "Cancel",
     "translatePlugin.langModal.start": "Start Translation"
+    "translatePlugin.langModal.notSupport" : "Your browser not support"
 }
