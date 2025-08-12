@@ -18,11 +18,11 @@
     "pickRandomUserPlugin.modal.presenterView.previouslyPickedSection.pickButtonLabel.pickAgain": "Pick again",
     "pickRandomUserPlugin.actionsButtonDropdown.label.pickUser": "Pick random user",
     "pickRandomUserPlugin.actionsButtonDropdown.label.viewLastPickedUser": "Display last randomly picked user",
-    "translatePlugin.langModal.captionSelect.label":"Microphone speech language",
-    "translatePlugin.langModal.translateSelect.description":"Convert my voice into captions (select your voice language)",
-    "translatePlugin.langModal.translateSelect.label":"Subtitle live language",
-    "translatePlugin.langModal.translateSelect.description":"translate live captions into (select language):"
-    "translatePlugin.langModal.main.label":"Start Translation",
-    "translatePlugin.langModal.main.description":"Cancel",
-    "translatePlugin.langModal.main.defaultMessage":"Choase Languges",
+    "translatePlugin.langModal.title": "Choose languages",
+    "translatePlugin.langModal.target.label": "Subtitle target language",
+    "translatePlugin.langModal.target.help": "Pick the language to translate into.",
+    "translatePlugin.langModal.mic.label": "Microphone speech language",
+    "translatePlugin.langModal.mic.help": "Pick the language you will speak.",
+    "common.cancel": "Cancel",
+    "translatePlugin.langModal.start": "Start Translation"
 }
